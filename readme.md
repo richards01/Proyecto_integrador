@@ -1,0 +1,1 @@
+en esta ocaccion armo una base  con sql y lo diseño drawio 
